@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        
+        <ImageView
+            android:layout_width="@dimen/chieurongavt"
+            android:layout_height="@dimen/chieucaoavt"
+            android:src="@drawable/avt"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/marginTopavt"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="@dimen/sizeTenLogo"
+            android:text="@string/TenLogo"
+            android:textColor="#e8bf31"
+            android:paddingTop="@dimen/padTopLogo"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="#0084ff"
+                android:drawableRight="@drawable/fb"
+                android:scaleType="centerInside"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
