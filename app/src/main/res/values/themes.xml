@@ -18,5 +18,11 @@
     <dimen name="chieucaoavt">100dp</dimen>
     <dimen name="marginTopavt">20dp</dimen>
     <dimen name="sizeTenLogo">15sp</dimen>
+    <dimen name="textSize">20sp</dimen>
     <dimen name="padTopLogo">10dp</dimen>
+    <dimen name="paddingBtn">10dp</dimen>
+    <dimen name="widthBtn">170dp</dimen>
+    <dimen name="marginTopInput">10dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="margin50">50dp</dimen>
 </resources>

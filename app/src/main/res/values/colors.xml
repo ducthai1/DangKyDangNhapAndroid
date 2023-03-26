@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="logoColor">#e8bf31</color>
+    <color name="whiteColor">#fff</color>
+    <color name="textColor">#1F2226</color>
+    <color name="primaryColor">#21188D</color>
+    <color name="primaryColor_Pressed">#281AD9</color>
+    <color name="editTextStrokeColor">#AAAAAA</color>
+    <color name="zoomInAndOutButtonColor">#47515C</color>
+    <color name="botNavColor">#CCFFFFFF</color>
+    <color name="loginColor">#0ebe6d</color>
 </resources>

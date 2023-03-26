@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">DangKyDangNhap</string>
     <string name="TenLogo">Ứng dụng uống nước trực tuyến</string>
+    <string name="btnFb">Sign in with Facebook</string>
+    <string name="btnTw">Sign in with Twitter</string>
+    <string name="inputUser">Enter your username</string>
+    <string name="inputPass">Enter your password</string>
+    <string name="regis">Register</string>
+    <string name="loginText">Login</string>
+    <string name="forgotPass">I\'ve forgotten my password?</string>
 </resources>
