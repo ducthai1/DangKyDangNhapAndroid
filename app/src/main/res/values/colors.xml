@@ -17,4 +17,8 @@
     <color name="zoomInAndOutButtonColor">#47515C</color>
     <color name="botNavColor">#CCFFFFFF</color>
     <color name="loginColor">#0ebe6d</color>
+    <color name="bg">#FDDFBF</color>
+    <color name="main">#F46F18</color>
+    <color name="icon">#FC7F04</color>
+    <color name="iconhover">#2196F3</color>
 </resources>
