@@ -21,4 +21,5 @@
     <color name="main">#F46F18</color>
     <color name="icon">#FC7F04</color>
     <color name="iconhover">#2196F3</color>
+    <color name="hovercolor">#021b44</color>
 </resources>
