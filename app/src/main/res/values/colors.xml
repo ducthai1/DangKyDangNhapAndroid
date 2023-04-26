@@ -22,4 +22,12 @@
     <color name="icon">#FC7F04</color>
     <color name="iconhover">#2196F3</color>
     <color name="hovercolor">#021b44</color>
+
+    <color name="color_primary">#F86E25</color>
+    <color name="color_primary_dark">#021B44</color>
+    <color name="colorAccent">#F89662</color>
+    <color name="red">#FF0000</color>
+    <color name="background_color">#EEE2FE</color>
+    <color name="background_color1">#F5F5F5</color>
+    <color name="dang_hoat_dong">#00FF00</color>
 </resources>
