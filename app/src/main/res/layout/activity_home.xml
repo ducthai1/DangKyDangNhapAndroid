@@ -23,6 +23,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:menu="@menu/bottom_nav_home"
         android:background="@color/background_color"
+        app:itemRippleColor="@color/primaryColor"
+        app:itemIconTint="@color/active_selector"
+        app:itemTextColor="@color/active_selector"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
